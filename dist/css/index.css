@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.h {
+  width: 100%;
+  height: 400px;
+  background: url(../images/dongda.20.jpg) no-repeat;
+}
